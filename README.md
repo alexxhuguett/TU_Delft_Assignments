@@ -1,4 +1,4 @@
-# 🎓 TU Delft: Data Science Portfolio
+# 🎓 TU Delft: Assignments
 ### Big Data Processing (BDP) & Data Mining (DM)
 
 ![TU Delft](https://img.shields.io/badge/University-TU%20Delft-00A6D6?style=for-the-badge&logo=delft-university-of-technology&logoColor=white)

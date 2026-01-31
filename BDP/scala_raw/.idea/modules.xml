@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_raw.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_raw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_raw.scala_raw-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_raw.scala_raw-build.iml" />
+    </modules>
+  </component>
+</project>
